@@ -36,7 +36,7 @@ require (
 	go.etcd.io/etcd/etcdctl/v3 v3.5.0-alpha.0
 	go.etcd.io/etcd/server/v3 v3.5.0-alpha.0
 	go.etcd.io/etcd/v3 v3.5.0-alpha.0
-	go.opencensus.io v0.22.4
+	go.opencensus.io v0.23.0
 	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
 	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
 	golang.org/x/sys v0.0.0-20201214210602-f9fddec55a1e
